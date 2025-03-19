@@ -1,0 +1,38 @@
+[
+    {
+        "price": "55000",
+        "district": "Кировский",
+        "photo": "AgACAgIAAxkBAAPKZ9oHhqbfx6XObO54EROupEdQLWMAAl7uMRuzrdBKvwV-xCauXHcBAAMCAAN5AAM2BA",
+        "city": "Санкт-Петербург",
+        "address": "Улица никиты 3, дом 68, кв 79",
+        "user_id": 1459511516,
+        "id": "260f8e84-e1e1-48dc-a0b7-a8ae65dcddac"
+    },
+    {
+        "price": "77000",
+        "district": "МКАД",
+        "photo": "AgACAgIAAxkBAAPYZ9oH5oWbGvl49DPhFL8ieJqwyYQAAl_mMRv1QwlLT0RmpEuhq0kBAAMCAAN4AAM2BA",
+        "city": "Москва",
+        "address": "Ул Пушкинская дом 4 кв 55",
+        "user_id": 1459511516,
+        "id": "9b7a071e-ecd4-4fa1-aa16-7e392e1949aa"
+    },
+    {
+        "price": "35000",
+        "district": "ЦКАД",
+        "photo": "AgACAgIAAxkBAANhZ9n0kEBqwiU91CzvGKx4GeCVmFkAAmDmMRv1QwlLq4dS4aVgIOoBAAMCAAN4AAM2BA",
+        "city": "Москва",
+        "address": "Ул Лермонтова дом 12 кв 66",
+        "user_id": 1459511516,
+        "id": "6872230a-d2c3-42e7-b74f-bdb7a54e2417"
+    },
+    {
+        "price": "30000",
+        "district": "Пяточок",
+        "photo": "AgACAgIAAxkBAAIBG2faCYOqQp86dopSx2StjUVVUGQYAAJT9TEbokbQSn_0szFiqLpTAQADAgADeQADNgQ",
+        "city": "Назрань",
+        "address": "Ул Муталиева дом 10 КВ 47",
+        "user_id": 794084147,
+        "id": "278bc705-e8fc-4193-8648-6e39514666bd"
+    }
+]
